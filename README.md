@@ -1,3 +1,3 @@
-# weihnachts_liste
+# weihnachts liste
 - SSD
 - Kopfhoerer
